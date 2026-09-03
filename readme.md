@@ -1,4 +1,5 @@
-Được. Nếu mục tiêu của bạn là **Python → Data Science**, mình khuyên đi theo hướng **thực chiến**, không học Python quá rộng rồi mới đụng dữ liệu.
+<img width="870" height="671" alt="image" src="https://github.com/user-attachments/assets/57599ca8-f616-4bd8-8538-e293fdf4f4e1" />
+
 
 ## Lộ trình tổng thể: 5–6 tháng
 
